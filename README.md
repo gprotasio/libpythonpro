@@ -6,4 +6,7 @@ Neste Curso é ensinado como contribuir a códigos abertos
 
 Link do curso [Python Pro] (https://www.python.pro.br)
 
-Pytools - Afiando o machado
+Tópicos a serem abordados:
+
+1 - Git
+2 - Virtualenv
