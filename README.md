@@ -6,7 +6,7 @@ Neste Curso é ensinado como contribuir a códigos abertos
 
 Link do curso [Python Pro] (https://www.python.pro.br)
 
-Suportado pela versão Python3.8
+Suportado pela versão Python3
 
 Tópicos a serem abordados:
 
