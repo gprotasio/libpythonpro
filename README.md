@@ -8,6 +8,21 @@ Link do curso [Python Pro] (https://www.python.pro.br)
 
 Suportado pela versão Python3
 
+Para instalar: 
+
+```
+   console 
+python -m venv .venv
+source .venv/bin/actovate
+pip installl -r requirements-dev.txt
+
+```
+   
+Para conferir qualidade de código
+```console
+flake8
+
+```
 Tópicos a serem abordados:
 
 1 - Git
