@@ -13,7 +13,7 @@ Para instalar:
 ```
    console 
 python -m venv .venv
-source .venv/bin/actovate
+source .venv/bin/activate
 pip installl -r requirements-dev.txt
 
 ```
