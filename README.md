@@ -32,3 +32,7 @@ Tópicos a serem abordados:
 2 - Virtualenv
 
 3 - Pip
+
+4 - Flake8
+
+5 - Integração Contínua com Travis CI
