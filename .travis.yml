@@ -10,8 +10,10 @@ env:
     - PIPENV_IGNORE_VIRTUALENVS=1
 
 install:
+  - pip install pipenv
+  - pipenv sync -d
   - pip install -r requirements-dev.txt
 
 script:
-  - flake8
+  - pipenv run flake8
   - pycodestyle .
