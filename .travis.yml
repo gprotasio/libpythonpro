@@ -15,5 +15,5 @@ install:
   - pip install -r requirements-dev.txt
 
 script:
-  - pipenv run flake8
+  - flake8
   - pycodestyle .
