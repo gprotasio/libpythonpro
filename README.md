@@ -6,6 +6,8 @@ Neste Curso é ensinado como contribuir a códigos abertos
 
 Link do curso [Python Pro] (https://www.python.pro.br)
 
+[![Build Status](https://travis-ci.org/gprotasio/libpythonpro.svg?branch=master)](https://travis-ci.org/gprotasio/libpythonpro)
+
 Suportado pela versão Python3
 
 Para instalar: 
